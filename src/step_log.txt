@@ -1,0 +1,2471 @@
+----------------------
+Episode 0 reward: -81
+Last step: 195
+Exploration rate: 0.139476
+Explore count: 88
+Exploit count: 108
+Time for episode:  10.966951847076416  sec.
+----------------------
+Episode 1 reward: -338
+Last step: 99
+Exploration rate: 0.051053
+Explore count: 7
+Exploit count: 93
+Time for episode:  8.767912864685059  sec.
+----------------------
+Episode 2 reward: -57
+Last step: 331
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 324
+Time for episode:  28.541512966156006  sec.
+----------------------
+Episode 3 reward: -271
+Last step: 157
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 155
+Time for episode:  13.196200370788574  sec.
+----------------------
+Episode 4 reward: -44
+Last step: 200
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 199
+Time for episode:  16.885969161987305  sec.
+----------------------
+Episode 5 reward: -187
+Last step: 198
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 198
+Time for episode:  16.656091451644897  sec.
+----------------------
+Episode 6 reward: -158
+Last step: 216
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 216
+Time for episode:  18.384891271591187  sec.
+----------------------
+Episode 7 reward: -253
+Last step: 229
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 229
+Time for episode:  19.428381204605103  sec.
+----------------------
+Episode 8 reward: -268
+Last step: 114
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 115
+Time for episode:  9.691594123840332  sec.
+----------------------
+Episode 9 reward: -226
+Last step: 173
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 174
+Time for episode:  14.650591373443604  sec.
+----------------------
+Episode 10 reward: -195
+Last step: 525
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 522
+Time for episode:  45.08621025085449  sec.
+----------------------
+Episode 11 reward: -67
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 747
+Time for episode:  64.07265949249268  sec.
+----------------------
+Episode 12 reward: -95
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  64.62705039978027  sec.
+----------------------
+Episode 13 reward: -84
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 13
+Exploit count: 737
+Time for episode:  63.64758825302124  sec.
+----------------------
+Episode 14 reward: -62
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 747
+Time for episode:  63.798200368881226  sec.
+----------------------
+Episode 15 reward: -107
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  64.46398830413818  sec.
+----------------------
+Episode 16 reward: -294
+Last step: 548
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 542
+Time for episode:  47.3330283164978  sec.
+----------------------
+Episode 17 reward: -46
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  64.33372950553894  sec.
+----------------------
+Episode 18 reward: -175
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 747
+Time for episode:  64.316481590271  sec.
+----------------------
+Episode 19 reward: -76
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  65.59603977203369  sec.
+----------------------
+Episode 20 reward: -74
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  65.03953146934509  sec.
+----------------------
+Episode 21 reward: -304
+Last step: 724
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 718
+Time for episode:  63.270673751831055  sec.
+----------------------
+Episode 22 reward: 9
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  65.24134087562561  sec.
+----------------------
+Episode 23 reward: -28
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  64.96046042442322  sec.
+----------------------
+Episode 24 reward: -21
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  64.97791957855225  sec.
+----------------------
+Episode 25 reward: -86
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 17
+Exploit count: 733
+Time for episode:  64.98930954933167  sec.
+----------------------
+Episode 26 reward: -68
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  65.72698855400085  sec.
+----------------------
+Episode 27 reward: -14
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 14
+Exploit count: 736
+Time for episode:  69.73309016227722  sec.
+----------------------
+Episode 28 reward: -33
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  65.92822933197021  sec.
+----------------------
+Episode 29 reward: -122
+Last step: 409
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 409
+Time for episode:  36.449453830718994  sec.
+----------------------
+Episode 30 reward: 2
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  66.49383354187012  sec.
+----------------------
+Episode 31 reward: -148
+Last step: 660
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 652
+Time for episode:  58.379557609558105  sec.
+----------------------
+Episode 32 reward: -68
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  65.83170771598816  sec.
+----------------------
+Episode 33 reward: -31
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  66.7657539844513  sec.
+----------------------
+Episode 34 reward: -160
+Last step: 634
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 630
+Time for episode:  56.60289525985718  sec.
+----------------------
+Episode 35 reward: -25
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  66.65189385414124  sec.
+----------------------
+Episode 36 reward: -64
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  66.09547996520996  sec.
+----------------------
+Episode 37 reward: -33
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  66.83078384399414  sec.
+----------------------
+Episode 38 reward: -28
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  67.0792179107666  sec.
+----------------------
+Episode 39 reward: -31
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  67.27734613418579  sec.
+----------------------
+Episode 40 reward: 41
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  65.88881230354309  sec.
+----------------------
+Episode 41 reward: 40
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  66.24168467521667  sec.
+----------------------
+Episode 42 reward: -168
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  67.48254132270813  sec.
+----------------------
+Episode 43 reward: -20
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  67.15069437026978  sec.
+----------------------
+Episode 44 reward: -5
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  67.49703741073608  sec.
+----------------------
+Episode 45 reward: -31
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  66.40306258201599  sec.
+----------------------
+Episode 46 reward: 18
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  66.82598423957825  sec.
+----------------------
+Episode 47 reward: -74
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  67.63718295097351  sec.
+----------------------
+Episode 48 reward: -6
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  68.04552149772644  sec.
+----------------------
+Episode 49 reward: -36
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  67.95972442626953  sec.
+----------------------
+Episode 50 reward: -12
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  67.37693572044373  sec.
+----------------------
+Episode 51 reward: -190
+Last step: 249
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 247
+Time for episode:  22.18747568130493  sec.
+----------------------
+Episode 52 reward: -43
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  66.88694787025452  sec.
+----------------------
+Episode 53 reward: -12
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  66.55596899986267  sec.
+----------------------
+Episode 54 reward: -34
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 12
+Exploit count: 738
+Time for episode:  68.21767044067383  sec.
+----------------------
+Episode 55 reward: 0
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  67.0893702507019  sec.
+----------------------
+Episode 56 reward: 27
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  68.06230330467224  sec.
+----------------------
+Episode 57 reward: 9
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 16
+Exploit count: 734
+Time for episode:  68.30501580238342  sec.
+----------------------
+Episode 58 reward: 26
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  68.39196968078613  sec.
+----------------------
+Episode 59 reward: -78
+Last step: 604
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 601
+Time for episode:  54.539246559143066  sec.
+----------------------
+Episode 60 reward: -52
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  67.10282826423645  sec.
+----------------------
+Episode 61 reward: 8
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  67.83489108085632  sec.
+----------------------
+Episode 62 reward: 13
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  68.75925374031067  sec.
+----------------------
+Episode 63 reward: 41
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  67.93996715545654  sec.
+----------------------
+Episode 64 reward: -191
+Last step: 154
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 155
+Time for episode:  13.92362117767334  sec.
+----------------------
+Episode 65 reward: 0
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  68.49095273017883  sec.
+----------------------
+Episode 66 reward: 30
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  67.17139935493469  sec.
+----------------------
+Episode 67 reward: -64
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  68.93988800048828  sec.
+----------------------
+Episode 68 reward: -25
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  69.02599859237671  sec.
+----------------------
+Episode 69 reward: 22
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  67.98127031326294  sec.
+----------------------
+Episode 70 reward: -40
+Last step: 212
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 211
+Time for episode:  19.48346447944641  sec.
+----------------------
+Episode 71 reward: 12
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  69.48173999786377  sec.
+----------------------
+Episode 72 reward: 7
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  68.69754457473755  sec.
+----------------------
+Episode 73 reward: -2
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  68.82778716087341  sec.
+----------------------
+Episode 74 reward: 25
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  69.4834520816803  sec.
+----------------------
+Episode 75 reward: -6
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  68.39625096321106  sec.
+----------------------
+Episode 76 reward: 34
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  68.44911432266235  sec.
+----------------------
+Episode 77 reward: 19
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  69.32871985435486  sec.
+----------------------
+Episode 78 reward: -19
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 747
+Time for episode:  69.03684401512146  sec.
+----------------------
+Episode 79 reward: 42
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  68.41095685958862  sec.
+----------------------
+Episode 80 reward: 35
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  68.69618821144104  sec.
+----------------------
+Episode 81 reward: -9
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  68.7939133644104  sec.
+----------------------
+Episode 82 reward: -9
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  69.23760914802551  sec.
+----------------------
+Episode 83 reward: 42
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  68.71142315864563  sec.
+----------------------
+Episode 84 reward: 32
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  69.6987316608429  sec.
+----------------------
+Episode 85 reward: -44
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  69.1843330860138  sec.
+----------------------
+Episode 86 reward: 18
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  70.16378951072693  sec.
+----------------------
+Episode 87 reward: -25
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  69.04261350631714  sec.
+----------------------
+Episode 88 reward: -14
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 15
+Exploit count: 735
+Time for episode:  69.78508853912354  sec.
+----------------------
+Episode 89 reward: -78
+Last step: 385
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 380
+Time for episode:  35.67356538772583  sec.
+----------------------
+Episode 90 reward: 43
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  70.34859418869019  sec.
+----------------------
+Episode 91 reward: 57
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  69.54446339607239  sec.
+----------------------
+Episode 92 reward: -19
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  69.36270022392273  sec.
+----------------------
+Episode 93 reward: 45
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  69.73799753189087  sec.
+----------------------
+Episode 94 reward: 2
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  70.47284579277039  sec.
+----------------------
+Episode 95 reward: -22
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  70.67005324363708  sec.
+----------------------
+Episode 96 reward: -4
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  69.49997472763062  sec.
+----------------------
+Episode 97 reward: 13
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 748
+Time for episode:  70.15588474273682  sec.
+----------------------
+Episode 98 reward: -11
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  70.10888290405273  sec.
+----------------------
+Episode 99 reward: 23
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 12
+Exploit count: 738
+Time for episode:  69.37675881385803  sec.
+----------------------
+Episode 100 reward: 21
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  70.41747832298279  sec.
+----------------------
+Episode 101 reward: 4
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  70.73649406433105  sec.
+----------------------
+Episode 102 reward: 34
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  70.69038987159729  sec.
+----------------------
+Episode 103 reward: -25
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 748
+Time for episode:  70.26515436172485  sec.
+----------------------
+Episode 104 reward: 0
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  70.16402745246887  sec.
+----------------------
+Episode 105 reward: -34
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  70.46104168891907  sec.
+----------------------
+Episode 106 reward: 46
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  71.19809007644653  sec.
+----------------------
+Episode 107 reward: 7
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  71.4832079410553  sec.
+----------------------
+Episode 108 reward: 32
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  70.97545051574707  sec.
+----------------------
+Episode 109 reward: 48
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  71.39259648323059  sec.
+----------------------
+Episode 110 reward: -18
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 12
+Exploit count: 738
+Time for episode:  71.23990559577942  sec.
+----------------------
+Episode 111 reward: -41
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  71.3603675365448  sec.
+----------------------
+Episode 112 reward: -48
+Last step: 530
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 522
+Time for episode:  49.29201602935791  sec.
+----------------------
+Episode 113 reward: 40
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  69.99739408493042  sec.
+----------------------
+Episode 114 reward: 21
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  71.43854355812073  sec.
+----------------------
+Episode 115 reward: -131
+Last step: 292
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 291
+Time for episode:  27.208468198776245  sec.
+----------------------
+Episode 116 reward: 39
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  71.66304469108582  sec.
+----------------------
+Episode 117 reward: 25
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  71.22537970542908  sec.
+----------------------
+Episode 118 reward: 6
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 747
+Time for episode:  71.24247765541077  sec.
+----------------------
+Episode 119 reward: 3
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  71.44003534317017  sec.
+----------------------
+Episode 120 reward: -1
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  71.28532314300537  sec.
+----------------------
+Episode 121 reward: -81
+Last step: 340
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 338
+Time for episode:  32.121423959732056  sec.
+----------------------
+Episode 122 reward: 48
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  71.21155071258545  sec.
+----------------------
+Episode 123 reward: -30
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  70.47586274147034  sec.
+----------------------
+Episode 124 reward: -4
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 747
+Time for episode:  70.1071891784668  sec.
+----------------------
+Episode 125 reward: -7
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  70.6756603717804  sec.
+----------------------
+Episode 126 reward: -13
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  70.53980231285095  sec.
+----------------------
+Episode 127 reward: -80
+Last step: 324
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 322
+Time for episode:  31.003241062164307  sec.
+----------------------
+Episode 128 reward: -33
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  72.05040073394775  sec.
+----------------------
+Episode 129 reward: 2
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  71.88027000427246  sec.
+----------------------
+Episode 130 reward: 2
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  70.39845323562622  sec.
+----------------------
+Episode 131 reward: 58
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  71.54154801368713  sec.
+----------------------
+Episode 132 reward: 34
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  69.95543193817139  sec.
+----------------------
+Episode 133 reward: 34
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 12
+Exploit count: 738
+Time for episode:  70.32028293609619  sec.
+----------------------
+Episode 134 reward: -16
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  72.07118368148804  sec.
+----------------------
+Episode 135 reward: 21
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  71.98086643218994  sec.
+----------------------
+Episode 136 reward: 8
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  70.88076448440552  sec.
+----------------------
+Episode 137 reward: -25
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  70.31278252601624  sec.
+----------------------
+Episode 138 reward: 22
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  72.45793867111206  sec.
+----------------------
+Episode 139 reward: 52
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  71.83298921585083  sec.
+----------------------
+Episode 140 reward: 76
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  71.38691329956055  sec.
+----------------------
+Episode 141 reward: 23
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  72.16559553146362  sec.
+----------------------
+Episode 142 reward: -38
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  71.05230951309204  sec.
+----------------------
+Episode 143 reward: -13
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  71.97628092765808  sec.
+----------------------
+Episode 144 reward: 52
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  71.86921548843384  sec.
+----------------------
+Episode 145 reward: 36
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  70.95390582084656  sec.
+----------------------
+Episode 146 reward: 65
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  71.19430255889893  sec.
+----------------------
+Episode 147 reward: 36
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  72.31598663330078  sec.
+----------------------
+Episode 148 reward: -16
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  71.9002275466919  sec.
+----------------------
+Episode 149 reward: -44
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  71.45254302024841  sec.
+----------------------
+Episode 150 reward: 1
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 740
+Time for episode:  71.17490649223328  sec.
+----------------------
+Episode 151 reward: -16
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  72.041499376297  sec.
+----------------------
+Episode 152 reward: 47
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  72.45172381401062  sec.
+----------------------
+Episode 153 reward: -613
+Last step: 641
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 636
+Time for episode:  61.195401191711426  sec.
+----------------------
+Episode 154 reward: -415
+Last step: 513
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 508
+Time for episode:  49.309386014938354  sec.
+----------------------
+Episode 155 reward: 146
+Last step: 586
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 577
+Time for episode:  56.12813091278076  sec.
+----------------------
+Episode 156 reward: 38
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  71.63782143592834  sec.
+----------------------
+Episode 157 reward: 38
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  72.01359367370605  sec.
+----------------------
+Episode 158 reward: 52
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  72.61951494216919  sec.
+----------------------
+Episode 159 reward: 209
+Last step: 738
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 733
+Time for episode:  71.38096404075623  sec.
+----------------------
+Episode 160 reward: 50
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  72.03049492835999  sec.
+----------------------
+Episode 161 reward: 196
+Last step: 626
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 620
+Time for episode:  59.89510679244995  sec.
+----------------------
+Episode 162 reward: 260
+Last step: 502
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 503
+Time for episode:  48.17873406410217  sec.
+----------------------
+Episode 163 reward: 9
+Last step: 512
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 506
+Time for episode:  48.61487340927124  sec.
+----------------------
+Episode 164 reward: 183
+Last step: 681
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 675
+Time for episode:  65.94106435775757  sec.
+----------------------
+Episode 165 reward: 230
+Last step: 429
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 425
+Time for episode:  41.06921648979187  sec.
+----------------------
+Episode 166 reward: 63
+Last step: 195
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 194
+Time for episode:  18.922472953796387  sec.
+----------------------
+Episode 167 reward: 215
+Last step: 506
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 502
+Time for episode:  48.25017786026001  sec.
+----------------------
+Episode 168 reward: 246
+Last step: 432
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 430
+Time for episode:  41.45068120956421  sec.
+----------------------
+Episode 169 reward: 29
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  72.31220054626465  sec.
+----------------------
+Episode 170 reward: -281
+Last step: 180
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 176
+Time for episode:  17.29166579246521  sec.
+----------------------
+Episode 171 reward: -11
+Last step: 335
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 333
+Time for episode:  31.768218517303467  sec.
+----------------------
+Episode 172 reward: 14
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  73.41518259048462  sec.
+----------------------
+Episode 173 reward: 12
+Last step: 214
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 214
+Time for episode:  20.78461766242981  sec.
+----------------------
+Episode 174 reward: 29
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  73.03647756576538  sec.
+----------------------
+Episode 175 reward: 250
+Last step: 329
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 327
+Time for episode:  32.003260374069214  sec.
+----------------------
+Episode 176 reward: -306
+Last step: 659
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 653
+Time for episode:  64.03605699539185  sec.
+----------------------
+Episode 177 reward: -15
+Last step: 294
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 291
+Time for episode:  28.56276512145996  sec.
+----------------------
+Episode 178 reward: -81
+Last step: 373
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 370
+Time for episode:  36.18288254737854  sec.
+----------------------
+Episode 179 reward: 190
+Last step: 729
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 724
+Time for episode:  70.4005913734436  sec.
+----------------------
+Episode 180 reward: 215
+Last step: 246
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 245
+Time for episode:  24.01324200630188  sec.
+----------------------
+Episode 181 reward: 209
+Last step: 607
+Exploration rate: 0.009921
+Explore count: 10
+Exploit count: 598
+Time for episode:  58.30995965003967  sec.
+----------------------
+Episode 182 reward: -30
+Last step: 258
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 259
+Time for episode:  25.578176021575928  sec.
+----------------------
+Episode 183 reward: -30
+Last step: 259
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 257
+Time for episode:  25.004504919052124  sec.
+----------------------
+Episode 184 reward: 50
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  71.87650346755981  sec.
+----------------------
+Episode 185 reward: 54
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  72.87666940689087  sec.
+----------------------
+Episode 186 reward: 224
+Last step: 695
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 689
+Time for episode:  67.75081610679626  sec.
+----------------------
+Episode 187 reward: 273
+Last step: 259
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 256
+Time for episode:  25.93159794807434  sec.
+----------------------
+Episode 188 reward: 48
+Last step: 219
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 215
+Time for episode:  20.83780837059021  sec.
+----------------------
+Episode 189 reward: 46
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  73.1048812866211  sec.
+----------------------
+Episode 190 reward: 234
+Last step: 395
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 395
+Time for episode:  38.264609813690186  sec.
+----------------------
+Episode 191 reward: 265
+Last step: 377
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 376
+Time for episode:  37.08711647987366  sec.
+----------------------
+Episode 192 reward: 200
+Last step: 586
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 578
+Time for episode:  57.25143551826477  sec.
+----------------------
+Episode 193 reward: 273
+Last step: 364
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 364
+Time for episode:  35.471208810806274  sec.
+----------------------
+Episode 194 reward: 0
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  73.52438592910767  sec.
+----------------------
+Episode 195 reward: 229
+Last step: 407
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 405
+Time for episode:  39.527647256851196  sec.
+----------------------
+Episode 196 reward: 262
+Last step: 257
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 256
+Time for episode:  24.65421223640442  sec.
+----------------------
+Episode 197 reward: -6
+Last step: 112
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 113
+Time for episode:  11.129115104675293  sec.
+----------------------
+Episode 198 reward: 231
+Last step: 453
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 451
+Time for episode:  43.693302631378174  sec.
+----------------------
+Episode 199 reward: 244
+Last step: 253
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 253
+Time for episode:  25.238452911376953  sec.
+----------------------
+Episode 200 reward: 254
+Last step: 339
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 334
+Time for episode:  33.6223680973053  sec.
+----------------------
+Episode 201 reward: -38
+Last step: 115
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 115
+Time for episode:  11.491870403289795  sec.
+----------------------
+Episode 202 reward: -62
+Last step: 115
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 116
+Time for episode:  11.620604515075684  sec.
+----------------------
+Episode 203 reward: 18
+Last step: 187
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 186
+Time for episode:  18.07786226272583  sec.
+----------------------
+Episode 204 reward: 217
+Last step: 357
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 355
+Time for episode:  35.625484228134155  sec.
+----------------------
+Episode 205 reward: -187
+Last step: 112
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 112
+Time for episode:  10.858125686645508  sec.
+----------------------
+Episode 206 reward: 199
+Last step: 335
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 330
+Time for episode:  32.87339973449707  sec.
+----------------------
+Episode 207 reward: 4
+Last step: 182
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 181
+Time for episode:  18.07541537284851  sec.
+----------------------
+Episode 208 reward: 155
+Last step: 725
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 719
+Time for episode:  71.28063201904297  sec.
+----------------------
+Episode 209 reward: -11
+Last step: 156
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 157
+Time for episode:  15.43791127204895  sec.
+----------------------
+Episode 210 reward: -98
+Last step: 576
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 574
+Time for episode:  56.79411959648132  sec.
+----------------------
+Episode 211 reward: -108
+Last step: 169
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 169
+Time for episode:  16.58543348312378  sec.
+----------------------
+Episode 212 reward: -66
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 12
+Exploit count: 738
+Time for episode:  73.5851571559906  sec.
+----------------------
+Episode 213 reward: 253
+Last step: 361
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 357
+Time for episode:  34.528218507766724  sec.
+----------------------
+Episode 214 reward: 179
+Last step: 487
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 485
+Time for episode:  47.969045877456665  sec.
+----------------------
+Episode 215 reward: 45
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  73.7843279838562  sec.
+----------------------
+Episode 216 reward: 183
+Last step: 731
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 725
+Time for episode:  71.62158012390137  sec.
+----------------------
+Episode 217 reward: 84
+Last step: 197
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 196
+Time for episode:  19.00654363632202  sec.
+----------------------
+Episode 218 reward: 194
+Last step: 593
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 588
+Time for episode:  57.72224164009094  sec.
+----------------------
+Episode 219 reward: -5
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  73.23319458961487  sec.
+----------------------
+Episode 220 reward: -58
+Last step: 658
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 653
+Time for episode:  64.31811094284058  sec.
+----------------------
+Episode 221 reward: 236
+Last step: 556
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 551
+Time for episode:  54.188483476638794  sec.
+----------------------
+Episode 222 reward: 222
+Last step: 578
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 570
+Time for episode:  56.594181537628174  sec.
+----------------------
+Episode 223 reward: 203
+Last step: 433
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 431
+Time for episode:  42.20364165306091  sec.
+----------------------
+Episode 224 reward: 0
+Last step: 296
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 295
+Time for episode:  29.138789653778076  sec.
+----------------------
+Episode 225 reward: 231
+Last step: 302
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 302
+Time for episode:  29.273211240768433  sec.
+----------------------
+Episode 226 reward: 198
+Last step: 494
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 488
+Time for episode:  47.797786474227905  sec.
+----------------------
+Episode 227 reward: 212
+Last step: 252
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 251
+Time for episode:  24.682128190994263  sec.
+----------------------
+Episode 228 reward: 200
+Last step: 596
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 589
+Time for episode:  58.29052782058716  sec.
+----------------------
+Episode 229 reward: 163
+Last step: 745
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 740
+Time for episode:  73.68961071968079  sec.
+----------------------
+Episode 230 reward: 11
+Last step: 85
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 86
+Time for episode:  8.01897120475769  sec.
+----------------------
+Episode 231 reward: 30
+Last step: 115
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 115
+Time for episode:  11.541541576385498  sec.
+----------------------
+Episode 232 reward: 0
+Last step: 138
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 137
+Time for episode:  13.591023921966553  sec.
+----------------------
+Episode 233 reward: 233
+Last step: 334
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 330
+Time for episode:  32.53167414665222  sec.
+----------------------
+Episode 234 reward: 157
+Last step: 479
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 477
+Time for episode:  46.090224742889404  sec.
+----------------------
+Episode 235 reward: 262
+Last step: 482
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 477
+Time for episode:  47.345011711120605  sec.
+----------------------
+Episode 236 reward: 234
+Last step: 422
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 419
+Time for episode:  41.2578341960907  sec.
+----------------------
+Episode 237 reward: 112
+Last step: 621
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 614
+Time for episode:  60.64610409736633  sec.
+----------------------
+Episode 238 reward: 237
+Last step: 236
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 234
+Time for episode:  23.106107473373413  sec.
+----------------------
+Episode 239 reward: 262
+Last step: 251
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 250
+Time for episode:  24.434946298599243  sec.
+----------------------
+Episode 240 reward: 244
+Last step: 354
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 350
+Time for episode:  34.50766468048096  sec.
+----------------------
+Episode 241 reward: 18
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 11
+Exploit count: 739
+Time for episode:  73.03317356109619  sec.
+----------------------
+Episode 242 reward: 62
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 745
+Time for episode:  73.227952003479  sec.
+----------------------
+Episode 243 reward: 238
+Last step: 330
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 326
+Time for episode:  32.66884207725525  sec.
+----------------------
+Episode 244 reward: 88
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  74.15100717544556  sec.
+----------------------
+Episode 245 reward: 19
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 9
+Exploit count: 741
+Time for episode:  72.77376699447632  sec.
+----------------------
+Episode 246 reward: 188
+Last step: 740
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 733
+Time for episode:  72.81322026252747  sec.
+----------------------
+Episode 247 reward: 259
+Last step: 272
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 268
+Time for episode:  25.90707230567932  sec.
+----------------------
+Episode 248 reward: 279
+Last step: 339
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 336
+Time for episode:  33.131569147109985  sec.
+----------------------
+Episode 249 reward: 253
+Last step: 307
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 303
+Time for episode:  29.445147275924683  sec.
+----------------------
+Episode 250 reward: 200
+Last step: 643
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 636
+Time for episode:  63.39244627952576  sec.
+----------------------
+Episode 251 reward: 26
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 742
+Time for episode:  73.3091402053833  sec.
+----------------------
+Episode 252 reward: -28
+Last step: 204
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 202
+Time for episode:  19.860178470611572  sec.
+----------------------
+Episode 253 reward: 13
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 746
+Time for episode:  72.74554896354675  sec.
+----------------------
+Episode 254 reward: 256
+Last step: 283
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 282
+Time for episode:  27.534834384918213  sec.
+----------------------
+Episode 255 reward: 227
+Last step: 225
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 225
+Time for episode:  22.071497917175293  sec.
+----------------------
+Episode 256 reward: 248
+Last step: 212
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 212
+Time for episode:  20.717167615890503  sec.
+----------------------
+Episode 257 reward: 199
+Last step: 563
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 557
+Time for episode:  54.87138295173645  sec.
+----------------------
+Episode 258 reward: 249
+Last step: 427
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 420
+Time for episode:  41.7431538105011  sec.
+----------------------
+Episode 259 reward: 102
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 13
+Exploit count: 737
+Time for episode:  73.4271137714386  sec.
+----------------------
+Episode 260 reward: 264
+Last step: 454
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 451
+Time for episode:  44.53321838378906  sec.
+----------------------
+Episode 261 reward: 227
+Last step: 577
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 575
+Time for episode:  56.44317412376404  sec.
+----------------------
+Episode 262 reward: 213
+Last step: 427
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 420
+Time for episode:  41.17336416244507  sec.
+----------------------
+Episode 263 reward: 282
+Last step: 317
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 312
+Time for episode:  30.971543550491333  sec.
+----------------------
+Episode 264 reward: 207
+Last step: 319
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 315
+Time for episode:  30.87708353996277  sec.
+----------------------
+Episode 265 reward: 241
+Last step: 315
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 310
+Time for episode:  30.954583406448364  sec.
+----------------------
+Episode 266 reward: 248
+Last step: 227
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 226
+Time for episode:  22.36321783065796  sec.
+----------------------
+Episode 267 reward: 228
+Last step: 464
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 462
+Time for episode:  45.393941164016724  sec.
+----------------------
+Episode 268 reward: 256
+Last step: 219
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 220
+Time for episode:  21.983417749404907  sec.
+----------------------
+Episode 269 reward: 257
+Last step: 245
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 243
+Time for episode:  23.84890389442444  sec.
+----------------------
+Episode 270 reward: 203
+Last step: 448
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 445
+Time for episode:  43.86972761154175  sec.
+----------------------
+Episode 271 reward: 193
+Last step: 241
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 241
+Time for episode:  23.829923152923584  sec.
+----------------------
+Episode 272 reward: 207
+Last step: 307
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 303
+Time for episode:  30.30415916442871  sec.
+----------------------
+Episode 273 reward: 211
+Last step: 574
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 570
+Time for episode:  56.3120002746582  sec.
+----------------------
+Episode 274 reward: 99
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  72.79976463317871  sec.
+----------------------
+Episode 275 reward: 284
+Last step: 377
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 373
+Time for episode:  37.87961554527283  sec.
+----------------------
+Episode 276 reward: 270
+Last step: 306
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 304
+Time for episode:  29.593466758728027  sec.
+----------------------
+Episode 277 reward: 224
+Last step: 483
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 479
+Time for episode:  47.58265471458435  sec.
+----------------------
+Episode 278 reward: 228
+Last step: 325
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 325
+Time for episode:  31.56573796272278  sec.
+----------------------
+Episode 279 reward: 240
+Last step: 431
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 425
+Time for episode:  42.213021755218506  sec.
+----------------------
+Episode 280 reward: 174
+Last step: 521
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 517
+Time for episode:  51.8899028301239  sec.
+----------------------
+Episode 281 reward: 192
+Last step: 469
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 464
+Time for episode:  46.07357311248779  sec.
+----------------------
+Episode 282 reward: -26
+Last step: 126
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 127
+Time for episode:  12.656606435775757  sec.
+----------------------
+Episode 283 reward: 211
+Last step: 487
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 481
+Time for episode:  47.90546727180481  sec.
+----------------------
+Episode 284 reward: 230
+Last step: 411
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 404
+Time for episode:  39.73766207695007  sec.
+----------------------
+Episode 285 reward: 219
+Last step: 393
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 391
+Time for episode:  38.7286159992218  sec.
+----------------------
+Episode 286 reward: 231
+Last step: 684
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 679
+Time for episode:  68.27747702598572  sec.
+----------------------
+Episode 287 reward: 199
+Last step: 441
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 439
+Time for episode:  43.335386753082275  sec.
+----------------------
+Episode 288 reward: 243
+Last step: 405
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 404
+Time for episode:  39.872432470321655  sec.
+----------------------
+Episode 289 reward: 231
+Last step: 439
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 435
+Time for episode:  43.014469146728516  sec.
+----------------------
+Episode 290 reward: 265
+Last step: 212
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 210
+Time for episode:  20.736830949783325  sec.
+----------------------
+Episode 291 reward: 262
+Last step: 276
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 275
+Time for episode:  27.1466805934906  sec.
+----------------------
+Episode 292 reward: 249
+Last step: 364
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 361
+Time for episode:  35.55542588233948  sec.
+----------------------
+Episode 293 reward: 166
+Last step: 499
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 495
+Time for episode:  48.9470419883728  sec.
+----------------------
+Episode 294 reward: -64
+Last step: 247
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 246
+Time for episode:  24.11485481262207  sec.
+----------------------
+Episode 295 reward: 169
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 744
+Time for episode:  73.27029132843018  sec.
+----------------------
+Episode 296 reward: 284
+Last step: 288
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 286
+Time for episode:  28.563899040222168  sec.
+----------------------
+Episode 297 reward: 281
+Last step: 289
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 288
+Time for episode:  28.121798753738403  sec.
+----------------------
+Episode 298 reward: 256
+Last step: 252
+Exploration rate: 0.009921
+Explore count: 8
+Exploit count: 245
+Time for episode:  24.417401790618896  sec.
+----------------------
+Episode 299 reward: 299
+Last step: 231
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 231
+Time for episode:  23.46892762184143  sec.
+----------------------
+Episode 300 reward: 11
+Last step: 283
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 281
+Time for episode:  27.831570386886597  sec.
+----------------------
+Episode 301 reward: 266
+Last step: 416
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 415
+Time for episode:  41.53887319564819  sec.
+----------------------
+Episode 302 reward: 246
+Last step: 410
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 410
+Time for episode:  40.81852650642395  sec.
+----------------------
+Episode 303 reward: 204
+Last step: 250
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 249
+Time for episode:  24.732598543167114  sec.
+----------------------
+Episode 304 reward: 259
+Last step: 283
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 282
+Time for episode:  28.104695320129395  sec.
+----------------------
+Episode 305 reward: 252
+Last step: 323
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 322
+Time for episode:  31.722063541412354  sec.
+----------------------
+Episode 306 reward: 282
+Last step: 314
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 313
+Time for episode:  30.865442276000977  sec.
+----------------------
+Episode 307 reward: 230
+Last step: 351
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 348
+Time for episode:  34.6473343372345  sec.
+----------------------
+Episode 308 reward: 292
+Last step: 389
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 384
+Time for episode:  37.99198865890503  sec.
+----------------------
+Episode 309 reward: 1
+Last step: 438
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 434
+Time for episode:  43.575902462005615  sec.
+----------------------
+Episode 310 reward: 270
+Last step: 345
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 341
+Time for episode:  34.29733061790466  sec.
+----------------------
+Episode 311 reward: 43
+Last step: 196
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 195
+Time for episode:  19.61795473098755  sec.
+----------------------
+Episode 312 reward: 43
+Last step: 206
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 205
+Time for episode:  20.695695877075195  sec.
+----------------------
+Episode 313 reward: 268
+Last step: 297
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 292
+Time for episode:  29.372454166412354  sec.
+----------------------
+Episode 314 reward: 246
+Last step: 503
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 499
+Time for episode:  49.46207284927368  sec.
+----------------------
+Episode 315 reward: 184
+Last step: 214
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 212
+Time for episode:  21.0128755569458  sec.
+----------------------
+Episode 316 reward: 228
+Last step: 314
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 308
+Time for episode:  31.911897897720337  sec.
+----------------------
+Episode 317 reward: 251
+Last step: 281
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 279
+Time for episode:  27.99920654296875  sec.
+----------------------
+Episode 318 reward: 77
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 16
+Exploit count: 734
+Time for episode:  73.5544605255127  sec.
+----------------------
+Episode 319 reward: 47
+Last step: 167
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 164
+Time for episode:  16.50882339477539  sec.
+----------------------
+Episode 320 reward: -81
+Last step: 93
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 94
+Time for episode:  9.4445960521698  sec.
+----------------------
+Episode 321 reward: 137
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 743
+Time for episode:  74.6605453491211  sec.
+----------------------
+Episode 322 reward: 258
+Last step: 603
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 602
+Time for episode:  60.56807327270508  sec.
+----------------------
+Episode 323 reward: 259
+Last step: 364
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 362
+Time for episode:  36.018959045410156  sec.
+----------------------
+Episode 324 reward: 13
+Last step: 347
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 348
+Time for episode:  34.923218965530396  sec.
+----------------------
+Episode 325 reward: -32
+Last step: 378
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 374
+Time for episode:  37.1624596118927  sec.
+----------------------
+Episode 326 reward: 262
+Last step: 352
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 350
+Time for episode:  35.286598920822144  sec.
+----------------------
+Episode 327 reward: 253
+Last step: 303
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 301
+Time for episode:  30.02342414855957  sec.
+----------------------
+Episode 328 reward: 221
+Last step: 354
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 348
+Time for episode:  35.380895376205444  sec.
+----------------------
+Episode 329 reward: 249
+Last step: 240
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 236
+Time for episode:  23.592078924179077  sec.
+----------------------
+Episode 330 reward: 228
+Last step: 326
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 323
+Time for episode:  31.776365041732788  sec.
+----------------------
+Episode 331 reward: 247
+Last step: 424
+Exploration rate: 0.009921
+Explore count: 1
+Exploit count: 424
+Time for episode:  42.25270676612854  sec.
+----------------------
+Episode 332 reward: 282
+Last step: 251
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 249
+Time for episode:  25.141852378845215  sec.
+----------------------
+Episode 333 reward: 270
+Last step: 219
+Exploration rate: 0.009921
+Explore count: 7
+Exploit count: 213
+Time for episode:  21.854171991348267  sec.
+----------------------
+Episode 334 reward: 198
+Last step: 324
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 322
+Time for episode:  32.635621547698975  sec.
+----------------------
+Episode 335 reward: 275
+Last step: 243
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 244
+Time for episode:  23.956234216690063  sec.
+----------------------
+Episode 336 reward: -11
+Last step: 324
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 322
+Time for episode:  32.22117495536804  sec.
+----------------------
+Episode 337 reward: 216
+Last step: 380
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 375
+Time for episode:  38.23483443260193  sec.
+----------------------
+Episode 338 reward: 212
+Last step: 432
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 428
+Time for episode:  42.445544958114624  sec.
+----------------------
+Episode 339 reward: 41
+Last step: 240
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 238
+Time for episode:  24.142717361450195  sec.
+----------------------
+Episode 340 reward: 273
+Last step: 241
+Exploration rate: 0.009921
+Explore count: 0
+Exploit count: 242
+Time for episode:  23.348881006240845  sec.
+----------------------
+Episode 341 reward: 271
+Last step: 303
+Exploration rate: 0.009921
+Explore count: 6
+Exploit count: 298
+Time for episode:  30.044260025024414  sec.
+----------------------
+Episode 342 reward: 258
+Last step: 332
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 330
+Time for episode:  33.074074506759644  sec.
+----------------------
+Episode 343 reward: 222
+Last step: 268
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 267
+Time for episode:  26.13096857070923  sec.
+----------------------
+Episode 344 reward: -21
+Last step: 261
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 259
+Time for episode:  26.034478664398193  sec.
+----------------------
+Episode 345 reward: 257
+Last step: 236
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 235
+Time for episode:  23.250768184661865  sec.
+----------------------
+Episode 346 reward: 256
+Last step: 339
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 336
+Time for episode:  34.19106864929199  sec.
+----------------------
+Episode 347 reward: 152
+Last step: 749
+Exploration rate: 0.009921
+Explore count: 12
+Exploit count: 738
+Time for episode:  73.48959469795227  sec.
+----------------------
+Episode 348 reward: 262
+Last step: 296
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 293
+Time for episode:  29.635886669158936  sec.
+----------------------
+Episode 349 reward: 253
+Last step: 248
+Exploration rate: 0.009921
+Explore count: 5
+Exploit count: 244
+Time for episode:  24.191399812698364  sec.
+----------------------
+Episode 350 reward: 292
+Last step: 291
+Exploration rate: 0.009921
+Explore count: 4
+Exploit count: 288
+Time for episode:  28.081258535385132  sec.
+----------------------
+Episode 351 reward: 242
+Last step: 461
+Exploration rate: 0.009921
+Explore count: 3
+Exploit count: 459
+Time for episode:  45.826947927474976  sec.
+----------------------
+Episode 352 reward: 285
+Last step: 517
+Exploration rate: 0.009921
+Explore count: 2
+Exploit count: 516
+Time for episode:  51.47979021072388  sec.
